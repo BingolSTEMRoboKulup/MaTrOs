@@ -8,5 +8,5 @@ numpy
 Werkzeug==1.0.1
 flask-cors
 Flask-RESTful
-tensorflow_text==2.7.0
-tensorflow-cpu==2.7.0
+tensorflow_text==2.9.0
+tensorflow-cpu==2.9.1
