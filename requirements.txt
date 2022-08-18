@@ -1,4 +1,5 @@
---upgrade pip
+tensorflow-cpu==2.7.3
+tensorflow_text
 click
 Flask==1.1.2
 gunicorn==20.0.4
@@ -7,7 +8,5 @@ jinja2>=2.11.3
 MarkupSafe==1.1.1
 numpy
 Werkzeug==1.0.1
-tensorflow-cpu==2.7.3
-tensorflow_text
 flask-cors
 Flask-RESTful
