@@ -8,5 +8,4 @@ numpy
 Werkzeug==1.0.1
 flask-cors
 Flask-RESTful
-tensorflow_text
-tensorflow-cpu
+tensorflow-text
