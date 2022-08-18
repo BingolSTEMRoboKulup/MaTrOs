@@ -6,7 +6,7 @@ jinja2>=2.11.3
 MarkupSafe==1.1.1
 numpy
 Werkzeug==1.0.1
-install tensorflow-cpu==2.7.3
+tensorflow-cpu==2.7.3
 tensorflow_text
 flask-cors
 Flask-RESTful
