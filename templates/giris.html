@@ -1,0 +1,14 @@
+{% extends 'index.html' %}
+{% block body %}
+ 
+<h2>{{ page_title }}</h2>
+ 
+<form method='POST' action='/cevir'>
+<table>
+<p>Osmanlıca Metni Giriniz...</p>
+<tr><td>Metin:</td><td><input name="metin" type="TEXT" width="10"</td></tr>
+</table>
+<p><input value="Çevir" type="SUBMIT"></p>
+</form>
+ 
+{% endblock %}
