@@ -1,5 +1,5 @@
-tensorflow-cpu==2.7.3
-tensorflow_text
+tensorflow-cpu==2.7.0
+tensorflow_text=2.7.0
 click
 Flask==1.1.2
 gunicorn==20.0.4
